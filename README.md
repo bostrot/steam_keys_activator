@@ -23,3 +23,13 @@ Before you start with the usage, copy the code from activator.js into a text edi
 * Asynchronous task
 
 ### Fork and Star if you like it!
+
+## Help
+
+You are welcome to contribute with pull requests, bug reports, ideas and donations.
+
+Bitcoin: [1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM](https://www.blockchain.com/btc/payment_request?address=1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM&currency=USD&nosavecurrency=true&message=Bostrot)
+
+PayPal: [paypal.me/bostrot](https://paypal.me/bostrot)
+
+Hosting: [2.50$ VPS at VULTR](https://www.vultr.com/?ref=7505919)
