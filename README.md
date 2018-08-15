@@ -26,6 +26,8 @@ Before you start with the usage, copy the code from activator.js into a text edi
 
 ## Help
 
+Join the forum if you need help: [discuss.bostrot.com](https://discuss.bostrot.com)
+
 You are welcome to contribute with pull requests, bug reports, ideas and donations.
 
 Bitcoin: [1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM](https://www.blockchain.com/btc/payment_request?address=1ECPWeTCq93F68BmgYjUgGSV11XuzSPSeM&currency=USD&nosavecurrency=true&message=Bostrot)
